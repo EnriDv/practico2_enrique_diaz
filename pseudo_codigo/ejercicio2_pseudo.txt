@@ -1,3 +1,17 @@
+EJERCICIO 2
 /*
+
+PRINT "Introducir un numero para determinar si es un palindromo"
+INPUT num
+n=num
+inv=0
+WHILE num>0
+d=num%10
+inv=(inv*10)+d
+num/=10
+IF inv==n
+PRINT "Es un palindromo"
+ELSE
+PRINT "NO es un palindromo"
 
 */
