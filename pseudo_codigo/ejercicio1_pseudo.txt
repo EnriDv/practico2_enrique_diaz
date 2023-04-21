@@ -1,4 +1,13 @@
-/*
+EJERCICIO 1
+/
 
+INT d=20
+INT h=5
+OUTPUT "Tienes: " d "$"
+OUTPUT "Un helado cuesta: " h "$"
+WHILE d>0
+d=-h
+OUTPUT "Se compró un helado"
+OUTPUT "Te quedan: " d " para comprar helados"
 
 */
