@@ -1,3 +1,29 @@
 /*
 
+INPUT día
+SWITCH día
+CASE 1
+OUTPUT "Lunes"
+BREAK
+CASE 2
+OUTPUT "Martes"
+BREAK
+CASE 3
+OUTPUT "Miercoles"
+BREAKCASE 
+CASE 4
+OUTPUT "Jueves"
+BREAK
+CASE 5
+OUTPUT "Viernes"
+BREAK
+CASE 6
+OUTPUT "Sabado"
+BREAK
+CASE 7
+OUTPUT "Domingo"
+BREAK
+DEFAULT
+OUTPUT "Solo hay 7 días en la semana"
+
 */
