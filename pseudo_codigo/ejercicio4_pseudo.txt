@@ -1,3 +1,4 @@
+EJERCICIO 4
 /*
 
 INPUT día
